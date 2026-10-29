@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi, I’m Thilina Kumarasiri 👋
 
-<!--
-**gtkk98/gtkk98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI/ML Engineer | Python Developer | Generative AI Enthusiast
 
-Here are some ideas to get you started:
+🎓 Fourth-year Software Engineering undergraduate at The Open University of Sri Lanka.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about building intelligent applications using machine learning, Generative AI, and Large Language Models.
+
+🚀 What I’m Working On
+
+* 🤖 Machine Learning and Deep Learning
+* 🧠 Retrieval-Augmented Generation (RAG) applications
+* 🐍 AI-powered backends using Python and FastAPI
+* 📊 Fraud detection and time-series forecasting
+
+🛠️ Tech Stack
+
+* Languages: Python, Java, SQL
+* Machine Learning: Scikit-learn, TensorFlow, Keras, Pandas, NumPy
+* Generative AI: OpenAI, LLMs, RAG, LlamaIndex, Embeddings
+* Backend: FastAPI, REST APIs, Pydantic
+* Databases: PostgreSQL, Qdrant, Firebase
+* Tools: Git, GitHub, Docker, VS Code, Google Colab
+
+📌 Featured Projects
+
+* Credit Card Fraud Detection
+* Stock Price Prediction
+* RAG AI Agent
+* Hospital Management Database System
+
+📫 Connect With Me
+
+* LinkedIn: Thilina Kumarasiri
+* GitHub: @gtkk98
+
+⸻
+
+Build · Learn · Grow 🚀
