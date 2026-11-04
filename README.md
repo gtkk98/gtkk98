@@ -26,7 +26,7 @@
 
 <img 
   src="https://streak-stats.demolab.com?user=gtkk98&theme=tokyonight&hide_border=true&border_radius=12" 
-  height="70"
+  height="170"
 />
 
 </td>
