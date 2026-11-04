@@ -2,16 +2,12 @@
 
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI\ML+Engineering+Undergraduate;"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineering+Undergraduate;Building+Creative+Developer+Tools"
   />
 </a>
 
 <br/>
 <br/>
-
-
-<img width="450" height="331" alt="giphy" src="https://github.com/user-attachments/assets/8c738d9d-97fa-402f-85dc-52793358c54e" />
-
 
 <div align="center">
 
@@ -19,15 +15,22 @@
 <tr>
 <td align="center" width="220">
 
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300"
+/>
+
 </td>
 
 <td align="center">
 
+<img 
+  src="https://streak-stats.demolab.com?user=gtkk98&theme=tokyonight&hide_border=true&border_radius=12" 
+  height="170"
+/>
+
 </td>
 </tr>
 </table>
-
-<img width="360" height="191" alt="giphy" src="https://github.com/user-attachments/assets/24bb9a42-0573-4f53-8051-68577cfebd1e" />
 
 <div align="center">
 
