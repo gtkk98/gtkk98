@@ -31,11 +31,6 @@
 </td>
 </tr>
 
-<td align="center">
-<img 
-  width="360" height="191" alt="giphy" src="https://github.com/user-attachments/assets/4f73ef04-813c-4359-8deb-64f1f0ae0272" 
-/>
-</td>
 </table>
 
 <div align="center">
