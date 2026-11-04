@@ -16,7 +16,7 @@
 <td align="center" width="220">
 
 <img 
-  width="450" height="331" alt="giphy" src="https://github.com/user-attachments/assets/fcf92344-59a6-48d2-9b28-010443790f4a" 
+  width="350" height="331" alt="giphy" src="https://github.com/user-attachments/assets/fcf92344-59a6-48d2-9b28-010443790f4a" 
 />
 
 </td>
