@@ -1,8 +1,9 @@
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineering+Undergraduate;Building+Creative+Developer+Tools"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI\ML+Engineering+Undergraduate;"
   />
 </a>
 
@@ -16,7 +17,7 @@
 <td align="center" width="220">
 
 <img 
-  src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300"
+  width="450" height="331" alt="giphy" src="https://github.com/user-attachments/assets/fcf92344-59a6-48d2-9b28-010443790f4a" 
 />
 
 </td>
