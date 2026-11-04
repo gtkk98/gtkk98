@@ -15,9 +15,7 @@
 <tr>
 <td align="center" width="220">
 
-<img 
-  src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300"
-/>
+<img width="450" height="331" alt="giphy" src="https://github.com/user-attachments/assets/8c738d9d-97fa-402f-85dc-52793358c54e" />
 
 </td>
 
