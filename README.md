@@ -36,6 +36,8 @@
 <img src="https://img.shields.io/github/followers/gtkk98?label=Followers&style=flat&color=0891b2" />
 
 </div>
+<img width="360" height="191" alt="giphy" src="https://github.com/user-attachments/assets/24bb9a42-0573-4f53-8051-68577cfebd1e" />
+
 Hi, I’m Thilina Kumarasiri 👋
 
 Aspiring AI/ML Engineer | Python Developer | Generative AI Enthusiast
