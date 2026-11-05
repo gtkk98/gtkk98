@@ -33,11 +33,6 @@
 
 </table>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gtkk98&label=Visitors&style=flat&color=0891b2" />
-<img src="https://img.shields.io/github/followers/gtkk98?label=Followers&style=flat&color=0891b2" />
-
 </div>
 
 Hi, I’m Thilina Kumarasiri 👋
